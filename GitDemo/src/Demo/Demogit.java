@@ -13,6 +13,7 @@ public class Demogit
 		System.out.println("This is main Method"); 
 		
 		Demogit dg = new Demogit();
+		dg.m1();
 	}
 	
 
